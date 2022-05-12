@@ -389,7 +389,7 @@ a {
   border-radius: 50%;
   background-color: #fff;
   margin-bottom: 17px;
-  line-height: 50px;
+  line-height: 50px !important;
 }
 .step__icon--1 {
   color: #67b941;

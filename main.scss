@@ -38,6 +38,8 @@ a {
     text-decoration: none;
 }
 
+
+
 //KEYFRAMES
 
 @keyframes fade-in {
@@ -471,7 +473,7 @@ a {
         border-radius: 50%;
         background-color: $white;
         margin-bottom: 17px;
-        line-height: 50px;
+        line-height: 50px !important;
 
         &--1 {
             color: #67b941;
