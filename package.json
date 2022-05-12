@@ -1,0 +1,28 @@
+{
+  "name": "betterphotos",
+  "version": "1.0.0",
+  "description": "responsive ui built using flex box grid and scss",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch --no-source-map main.scss styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dseals82/BetterPhotos.git"
+  },
+  "keywords": [
+    "sass",
+    "flexbox",
+    "grid",
+    "css"
+  ],
+  "author": "Darius seals",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dseals82/BetterPhotos/issues"
+  },
+  "homepage": "https://github.com/Dseals82/BetterPhotos#readme",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}
